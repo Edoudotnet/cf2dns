@@ -1,103 +1,103 @@
 [
     {
-        "colo": "SEA",
-        "ip": "172.67.64.162",
-        "latency": 163,
-        "line": "CM",
-        "loss": 0,
-        "node": "HOME_CM",
-        "speed": 1525,
-        "time": "2024-08-06 12:40:20"
-    },
-    {
         "colo": "Default",
-        "ip": "172.67.130.70",
-        "latency": 272,
+        "ip": "172.64.205.190",
+        "latency": 204,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 775,
-        "time": "2024-08-06 12:28:49"
+        "speed": 825,
+        "time": "2024-08-06 13:08:38"
     },
     {
         "colo": "Default",
-        "ip": "172.67.158.65",
+        "ip": "172.67.66.214",
         "latency": 164,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 590,
-        "time": "2024-08-06 12:45:54"
+        "speed": 660,
+        "time": "2024-08-06 13:08:39"
     },
     {
         "colo": "Default",
-        "ip": "172.67.170.84",
-        "latency": 163,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 560,
-        "time": "2024-08-06 12:28:50"
-    },
-    {
-        "colo": "Default",
-        "ip": "172.67.185.66",
-        "latency": 193,
+        "ip": "172.67.148.31",
+        "latency": 164,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
         "speed": 310,
-        "time": "2024-08-06 12:34:31"
+        "time": "2024-08-06 13:25:37"
+    },
+    {
+        "colo": "Default",
+        "ip": "172.67.177.250",
+        "latency": 200,
+        "line": "CM",
+        "loss": 0,
+        "node": "HOME_CM",
+        "speed": 310,
+        "time": "2024-08-06 13:20:25"
+    },
+    {
+        "colo": "Default",
+        "ip": "190.93.244.204",
+        "latency": 198,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 280,
+        "time": "2024-08-06 13:20:08"
+    },
+    {
+        "colo": "SJC",
+        "ip": "172.64.174.142",
+        "latency": 129,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_ZJCT",
+        "speed": 1760,
+        "time": "2024-08-06 13:28:57"
+    },
+    {
+        "colo": "SJC",
+        "ip": "172.64.106.252",
+        "latency": 130,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_ZJCT",
+        "speed": 1340,
+        "time": "2024-08-06 13:28:58"
+    },
+    {
+        "colo": "LAX",
+        "ip": "162.159.244.194",
+        "latency": 162,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_ZJCT",
+        "speed": 825,
+        "time": "2024-08-06 13:22:15"
     },
     {
         "colo": "LHR",
-        "ip": "172.67.152.167",
+        "ip": "172.67.194.150",
+        "latency": 221,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_ZJCT",
+        "speed": 745,
+        "time": "2024-08-06 13:22:16"
+    },
+    {
+        "colo": "SJC",
+        "ip": "172.64.135.153",
         "latency": 173,
         "line": "CT",
         "loss": 0,
         "node": "SDO_ZJCT",
-        "speed": 1550,
-        "time": "2024-08-06 12:41:03"
-    },
-    {
-        "colo": "LHR",
-        "ip": "172.67.163.21",
-        "latency": 223,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_ZJCT",
-        "speed": 870,
-        "time": "2024-08-06 12:44:25"
-    },
-    {
-        "colo": "LHR",
-        "ip": "172.67.197.95",
-        "latency": 227,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_ZJCT",
-        "speed": 740,
-        "time": "2024-08-06 12:37:37"
-    },
-    {
-        "colo": "LHR",
-        "ip": "172.67.162.216",
-        "latency": 196,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_ZJCT",
-        "speed": 595,
-        "time": "2024-08-06 12:47:45"
-    },
-    {
-        "colo": "SJC",
-        "ip": "172.64.101.112",
-        "latency": 129,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 200,
-        "time": "2024-08-06 12:46:33"
+        "speed": 340,
+        "time": "2024-08-06 13:11:29"
     },
     {
         "colo": "LAX",
