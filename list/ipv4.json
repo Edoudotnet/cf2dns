@@ -20,6 +20,16 @@
         "time": "2024-08-08 04:37:58"
     },
     {
+        "colo": "HKG",
+        "ip": "172.67.4.162",
+        "latency": 89,
+        "line": "CM",
+        "loss": 0,
+        "node": "HOME_CM",
+        "speed": 910,
+        "time": "2024-08-08 04:40:22"
+    },
+    {
         "colo": "Default",
         "ip": "172.67.65.12",
         "latency": 194,
@@ -38,16 +48,6 @@
         "node": "HOME_CM",
         "speed": 290,
         "time": "2024-08-08 04:20:25"
-    },
-    {
-        "colo": "Default",
-        "ip": "172.67.172.54",
-        "latency": 165,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 265,
-        "time": "2024-08-08 04:15:26"
     },
     {
         "colo": "SJC",
