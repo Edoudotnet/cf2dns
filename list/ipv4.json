@@ -11,6 +11,16 @@
     },
     {
         "colo": "Default",
+        "ip": "198.41.212.205",
+        "latency": 226,
+        "line": "CM",
+        "loss": 0,
+        "node": "SDO_HNCM",
+        "speed": 685,
+        "time": "2024-08-08 17:49:29"
+    },
+    {
+        "colo": "Default",
         "ip": "172.64.92.246",
         "latency": 203,
         "line": "CM",
@@ -38,16 +48,6 @@
         "node": "SDO_HNCM",
         "speed": 575,
         "time": "2024-08-08 17:19:30"
-    },
-    {
-        "colo": "HKG",
-        "ip": "172.67.11.203",
-        "latency": 99,
-        "line": "CM",
-        "loss": 0,
-        "node": "SDO_HNCM",
-        "speed": 550,
-        "time": "2024-08-08 17:09:30"
     },
     {
         "colo": "SJC",
